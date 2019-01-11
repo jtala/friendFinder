@@ -41,6 +41,11 @@ If you are more likely to be agreeable(i.e put 2 everywhere), you will most like
 <img src="app/assets/lebron-james-ex.JPG" alt="Lebron James" width="60%" height="40%">
 
 
+## Live Deployment
+
+https://jtalafriendfinder.herokuapp.com/
+
+
 
 
 ## Developers
